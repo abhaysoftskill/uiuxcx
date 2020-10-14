@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "770493b508fdd18ffa91278856169e68",
+    "revision": "1377b3695c071dc5d1ed886db69ee397",
     "url": "/uiuxcx/index.html"
   },
   {
-    "revision": "ce0546b47aadc0770c6d",
-    "url": "/uiuxcx/static/css/main.63dd33fb.chunk.css"
+    "revision": "2505296600f781503129",
+    "url": "/uiuxcx/static/css/main.6707fc71.chunk.css"
   },
   {
     "revision": "58d19c7c4d3bb4f31c17",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uiuxcx/static/js/2.c2f64ae4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce0546b47aadc0770c6d",
-    "url": "/uiuxcx/static/js/main.e7383ea5.chunk.js"
+    "revision": "2505296600f781503129",
+    "url": "/uiuxcx/static/js/main.92bacfc5.chunk.js"
   },
   {
     "revision": "ef786072155991afc987",
@@ -278,5 +278,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "eb45b7dc11dc823fbed538c28363871b",
     "url": "/uiuxcx/static/media/testimonials-bg.eb45b7dc.jpg"
+  },
+  {
+    "revision": "29700d091f23329f01429c1483dbb521",
+    "url": "/uiuxcx/static/media/userimg.29700d09.jpg"
   }
 ]);
