@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d57b1bc3376598a33f9427a448b12d2",
+    "revision": "f82e1e6b40efa18ff63d4433e445e154",
     "url": "/uiuxcx/index.html"
   },
   {
-    "revision": "f3135a687669e5fa4705",
-    "url": "/uiuxcx/static/css/main.0a4927ac.chunk.css"
+    "revision": "aedc1cc9af5eeea7e98c",
+    "url": "/uiuxcx/static/css/main.5c04a67c.chunk.css"
   },
   {
     "revision": "58d19c7c4d3bb4f31c17",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uiuxcx/static/js/2.c2f64ae4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f3135a687669e5fa4705",
+    "revision": "aedc1cc9af5eeea7e98c",
     "url": "/uiuxcx/static/js/main.aaa0a01a.chunk.js"
   },
   {
     "revision": "ef786072155991afc987",
     "url": "/uiuxcx/static/js/runtime-main.231a73bd.js"
+  },
+  {
+    "revision": "98ec4fdc1b1b4504d09b73f490aceb44",
+    "url": "/uiuxcx/static/media/Abhay_Narnaware.98ec4fdc.JPG"
   },
   {
     "revision": "1d9c7945c7bc7dd0909105119bfbc191",
