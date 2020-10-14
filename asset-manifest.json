@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/uiuxcx/static/css/main.e714eb8c.chunk.css",
-    "main.js": "/uiuxcx/static/js/main.63bd260a.chunk.js",
-    "main.js.map": "/uiuxcx/static/js/main.63bd260a.chunk.js.map",
+    "main.js": "/uiuxcx/static/js/main.b1c869b9.chunk.js",
+    "main.js.map": "/uiuxcx/static/js/main.b1c869b9.chunk.js.map",
     "runtime-main.js": "/uiuxcx/static/js/runtime-main.231a73bd.js",
     "runtime-main.js.map": "/uiuxcx/static/js/runtime-main.231a73bd.js.map",
-    "static/js/2.1653d821.chunk.js": "/uiuxcx/static/js/2.1653d821.chunk.js",
-    "static/js/2.1653d821.chunk.js.map": "/uiuxcx/static/js/2.1653d821.chunk.js.map",
+    "static/js/2.c2f64ae4.chunk.js": "/uiuxcx/static/js/2.c2f64ae4.chunk.js",
+    "static/js/2.c2f64ae4.chunk.js.map": "/uiuxcx/static/js/2.c2f64ae4.chunk.js.map",
     "index.html": "/uiuxcx/index.html",
-    "precache-manifest.70f7d294529b088f4f9dcdc0292ca294.js": "/uiuxcx/precache-manifest.70f7d294529b088f4f9dcdc0292ca294.js",
+    "precache-manifest.40d309657d352c1c49929b774efe4a91.js": "/uiuxcx/precache-manifest.40d309657d352c1c49929b774efe4a91.js",
     "service-worker.js": "/uiuxcx/service-worker.js",
     "static/css/main.e714eb8c.chunk.css.map": "/uiuxcx/static/css/main.e714eb8c.chunk.css.map",
-    "static/js/2.1653d821.chunk.js.LICENSE.txt": "/uiuxcx/static/js/2.1653d821.chunk.js.LICENSE.txt",
+    "static/js/2.c2f64ae4.chunk.js.LICENSE.txt": "/uiuxcx/static/js/2.c2f64ae4.chunk.js.LICENSE.txt",
     "static/media/default.css": "/uiuxcx/static/media/librebaskerville-regular-webfont.eaf077e2.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.231a73bd.js",
-    "static/js/2.1653d821.chunk.js",
+    "static/js/2.c2f64ae4.chunk.js",
     "static/css/main.e714eb8c.chunk.css",
-    "static/js/main.63bd260a.chunk.js"
+    "static/js/main.b1c869b9.chunk.js"
   ]
 }
