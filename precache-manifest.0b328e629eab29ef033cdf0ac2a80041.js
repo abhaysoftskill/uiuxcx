@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f82e1e6b40efa18ff63d4433e445e154",
+    "revision": "e0c29909dc10bad47a33c88146635351",
     "url": "/uiuxcx/index.html"
   },
   {
-    "revision": "aedc1cc9af5eeea7e98c",
-    "url": "/uiuxcx/static/css/main.5c04a67c.chunk.css"
+    "revision": "a86cef5e343f95b050d9",
+    "url": "/uiuxcx/static/css/main.63dd33fb.chunk.css"
   },
   {
     "revision": "58d19c7c4d3bb4f31c17",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uiuxcx/static/js/2.c2f64ae4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aedc1cc9af5eeea7e98c",
+    "revision": "a86cef5e343f95b050d9",
     "url": "/uiuxcx/static/js/main.aaa0a01a.chunk.js"
   },
   {
@@ -220,6 +220,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uiuxcx/static/media/fontello.ce25cd5b.eot"
   },
   {
+    "revision": "b96d41888c622c425fbfdf79881379ad",
+    "url": "/uiuxcx/static/media/header-background.b96d4188.jpg"
+  },
+  {
     "revision": "6be4bfc9a081cb82910a1ac43eaee4c7",
     "url": "/uiuxcx/static/media/librebaskerville-bold-webfont.6be4bfc9.svg"
   },
@@ -266,5 +270,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "eaf077e2e9d8c00e3348b03a7cac92fe",
     "url": "/uiuxcx/static/media/librebaskerville-regular-webfont.eaf077e2.ttf"
+  },
+  {
+    "revision": "ef1b95054cff6b558e62c6e3aca33fe1",
+    "url": "/uiuxcx/static/media/smallimg.ef1b9505.png"
+  },
+  {
+    "revision": "eb45b7dc11dc823fbed538c28363871b",
+    "url": "/uiuxcx/static/media/testimonials-bg.eb45b7dc.jpg"
   }
 ]);
