@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/uiuxcx/static/css/main.63dd33fb.chunk.css",
-    "main.js": "/uiuxcx/static/js/main.aaa0a01a.chunk.js",
-    "main.js.map": "/uiuxcx/static/js/main.aaa0a01a.chunk.js.map",
+    "main.js": "/uiuxcx/static/js/main.e7383ea5.chunk.js",
+    "main.js.map": "/uiuxcx/static/js/main.e7383ea5.chunk.js.map",
     "runtime-main.js": "/uiuxcx/static/js/runtime-main.231a73bd.js",
     "runtime-main.js.map": "/uiuxcx/static/js/runtime-main.231a73bd.js.map",
     "static/js/2.c2f64ae4.chunk.js": "/uiuxcx/static/js/2.c2f64ae4.chunk.js",
     "static/js/2.c2f64ae4.chunk.js.map": "/uiuxcx/static/js/2.c2f64ae4.chunk.js.map",
     "index.html": "/uiuxcx/index.html",
-    "precache-manifest.0b328e629eab29ef033cdf0ac2a80041.js": "/uiuxcx/precache-manifest.0b328e629eab29ef033cdf0ac2a80041.js",
+    "precache-manifest.983e28fdb46ee17587a6139e69dcdeed.js": "/uiuxcx/precache-manifest.983e28fdb46ee17587a6139e69dcdeed.js",
     "service-worker.js": "/uiuxcx/service-worker.js",
     "static/css/main.63dd33fb.chunk.css.map": "/uiuxcx/static/css/main.63dd33fb.chunk.css.map",
     "static/js/2.c2f64ae4.chunk.js.LICENSE.txt": "/uiuxcx/static/js/2.c2f64ae4.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.231a73bd.js",
     "static/js/2.c2f64ae4.chunk.js",
     "static/css/main.63dd33fb.chunk.css",
-    "static/js/main.aaa0a01a.chunk.js"
+    "static/js/main.e7383ea5.chunk.js"
   ]
 }
