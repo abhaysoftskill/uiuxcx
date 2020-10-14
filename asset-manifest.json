@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/uiuxcx/static/css/main.51fb26af.chunk.css",
+    "main.css": "/uiuxcx/static/css/main.0a4927ac.chunk.css",
     "main.js": "/uiuxcx/static/js/main.aaa0a01a.chunk.js",
     "main.js.map": "/uiuxcx/static/js/main.aaa0a01a.chunk.js.map",
     "runtime-main.js": "/uiuxcx/static/js/runtime-main.231a73bd.js",
@@ -8,16 +8,16 @@
     "static/js/2.c2f64ae4.chunk.js": "/uiuxcx/static/js/2.c2f64ae4.chunk.js",
     "static/js/2.c2f64ae4.chunk.js.map": "/uiuxcx/static/js/2.c2f64ae4.chunk.js.map",
     "index.html": "/uiuxcx/index.html",
-    "precache-manifest.63014d3c22254514e57dc00b0e5b5d2f.js": "/uiuxcx/precache-manifest.63014d3c22254514e57dc00b0e5b5d2f.js",
+    "precache-manifest.f0b0dcdb76564aa2437d947a923d2965.js": "/uiuxcx/precache-manifest.f0b0dcdb76564aa2437d947a923d2965.js",
     "service-worker.js": "/uiuxcx/service-worker.js",
-    "static/css/main.51fb26af.chunk.css.map": "/uiuxcx/static/css/main.51fb26af.chunk.css.map",
+    "static/css/main.0a4927ac.chunk.css.map": "/uiuxcx/static/css/main.0a4927ac.chunk.css.map",
     "static/js/2.c2f64ae4.chunk.js.LICENSE.txt": "/uiuxcx/static/js/2.c2f64ae4.chunk.js.LICENSE.txt",
     "static/media/default.css": "/uiuxcx/static/media/librebaskerville-regular-webfont.eaf077e2.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.231a73bd.js",
     "static/js/2.c2f64ae4.chunk.js",
-    "static/css/main.51fb26af.chunk.css",
+    "static/css/main.0a4927ac.chunk.css",
     "static/js/main.aaa0a01a.chunk.js"
   ]
 }
